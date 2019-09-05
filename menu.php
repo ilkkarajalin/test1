@@ -18,6 +18,5 @@
     <div id="header">
       This is the footer / Kultsu on rakas
     </div>
-</div>
   </body>
 </html>
